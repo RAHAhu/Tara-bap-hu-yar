@@ -1,8 +1,0 @@
-applications:
-- path: .
-  memory: 128M
-  instances: 1
-  domain: mybluemix.net
-  name: Tara-bap-hu-yar
-  host: Tara-bap-hu-yar
-  disk_quota: 1024M
